@@ -449,11 +449,11 @@
     padding: 215px 0 30px;
   }
   .main-slider .slide .title {
-    letter-spacing: 5px;
+    letter-spacing: 3px;
   }
   .main-slider .slide h1 {
-    font-size: 30px;
-    line-height: 42px;
+    font-size: 25px;
+    line-height: 35px;
   }
   .main-slider .slide .btn-holder .btn {
     margin: 0 10px 15px 0;

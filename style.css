@@ -533,7 +533,7 @@ a:hover, a:focus, a.active {
   font-weight: 700;
   display: block;
   margin: 0 0 9px;
-  letter-spacing: 8px;
+  letter-spacing: 5px;
   opacity: 0;
   transform: translateY(-90px);
   transition: all 0.6s linear;
