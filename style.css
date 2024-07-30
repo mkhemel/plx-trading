@@ -4677,5 +4677,9 @@ a:hover, a:focus, a.active {
     font-size: 26px;
     line-height: 30px;
   }
+
+  .logo {
+    width: 90px;
+  }
 }
 
