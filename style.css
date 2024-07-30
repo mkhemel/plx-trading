@@ -4636,9 +4636,22 @@ a:hover, a:focus, a.active {
 }
 
 @media only screen and (max-width: 768px) {
+
+  .about-img{
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 576px) {
-
+  .choose-sec .img-holder {
+    width: calc(50% - 20px);
+    /*float: none;*/
+    /*margin: 0 0 20px;*/
+  }
+  .choose-sec .img-holder:first-child {
+    width: calc(50% - 5px) !important;
+    padding: 0;
+    margin-right: 10px;
+  }
 }
 
