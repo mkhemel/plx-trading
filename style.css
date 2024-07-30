@@ -4667,5 +4667,15 @@ a:hover, a:focus, a.active {
     padding: 0;
     margin-right: 10px;
   }
+
+  .btn {
+    padding: 8px 13px !important;
+  }
+
+  .main-heading{
+    margin: 0 0 30px;
+    font-size: 26px;
+    line-height: 30px;
+  }
 }
 

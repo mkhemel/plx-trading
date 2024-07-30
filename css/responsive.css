@@ -206,7 +206,7 @@
     padding: 50px 15px 50px;
   }
   .service-sec .service {
-    margin: 0 0 30px;
+    margin: 0 0 0px;
   }
   .service-sec .service:hover .over {
     top: 66px;
@@ -449,10 +449,10 @@
     padding: 215px 0 30px;
   }
   .main-slider .slide .title {
-    letter-spacing: 3px;
+    letter-spacing: 2px;
   }
   .main-slider .slide h1 {
-    font-size: 25px;
+    font-size: 24px;
     line-height: 35px;
   }
   .main-slider .slide .btn-holder .btn {
